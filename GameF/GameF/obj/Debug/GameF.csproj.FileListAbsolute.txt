@@ -1,0 +1,3 @@
+D:\My Unity Games\GameF\GameF\obj\Debug\GameF.csproj.AssemblyReference.cache
+D:\My Unity Games\GameF\GameF\obj\Debug\GameF.csproj.SuggestedBindingRedirects.cache
+D:\My Unity Games\GameF\GameF\obj\Debug\GameF.csproj.CoreCompileInputs.cache
